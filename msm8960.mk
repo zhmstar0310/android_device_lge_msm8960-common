@@ -18,7 +18,7 @@
 PRODUCT_COPY_FILES += \
     device/lge/msm8960-common/2nd-init/2nd-init:/system/xbin/2nd-init \
     device/lge/msm8960-common/2nd-init/mksh2:/system/xbin/mksh2 \
-    device/lge/msm8960-common/2nd-init/cm10.sh:/system/xbin/cm10.sh \
+    device/lge/msm8960-common/2nd-init/cm11.sh:/system/xbin/cm11.sh \
     device/lge/msm8960-common/2nd-init/recovery.sh:/system/xbin/recovery.sh \
     device/lge/msm8960-common/2nd-init/taskset:/system/xbin/taskset
 
